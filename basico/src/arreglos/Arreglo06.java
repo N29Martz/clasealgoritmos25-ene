@@ -16,7 +16,7 @@ public class Arreglo06{
         System.out.println("Suma de matriz nxn");
         System.out.println("--------------------------");
         
-        System.out.print("Ingrese el numero el tamaño de la matriz: ");
+        System.out.print("Ingrese el tamaño de la matriz: ");
         int n= sc.nextInt();
         
         int[][] matriz = new int[n][n];
